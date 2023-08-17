@@ -1,2 +1,2 @@
-# Program_Design_Lab_2022
+# Program_Design_Lab
 Some Programs in C lang 
