@@ -1,2 +1,2 @@
 # Program_Design_Lab
-As a part of Program Design Lab Course Offered in Sem-3 written Programs in C.
+Program Design Course offered in Sem-3 as a part of that written programms in C language.
