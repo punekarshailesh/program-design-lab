@@ -12,8 +12,24 @@ Program Design Course offered in Sem-3 as a part of that written programs in C l
     <li>Quick sort</li>
   </ul>
   </li>
-  <li>Linked list</li>
-  <li>Stack</li>
-  <li>Queue</li>
+  <li>Linked list
+    <ul>
+      <li>Singly linked list</li>
+      <li>Doubly linked list</li>
+      <li>Cicular linked list</li>
+    </ul>
+  </li>
+  <li>Stack
+  <ul>
+    <li>by array</li>
+    <li>by linked list</li>
+  </ul>
+  </li>
+  <li>Queue
+  <ul>
+    <li>by array</li>
+    <li>by linked list</li>
+  </ul>
+  </li>
   <li>Tree(Basics)</li>
 </ol>
