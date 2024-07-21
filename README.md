@@ -1,15 +1,19 @@
 # Program-Design-Lab
 Program Design Course offered in Sem-3 as a part of that written programs in C language.
-<h1>
-  1. Array 
-  <br/>
-  2. Sorting algorithms
-  <br/>
-  3. Linked List
-  <br/>
-  4. Stack
-  <br/>
-  5. Queue
-  <br/>
-  6. Basics of Tree
-</h1>
+<ol>
+  <li>Array</li>
+  <li>Sorting algo
+  <ul>
+    <li>Insertion sort</li>
+    <li>Selection sort</li>
+    <li>Bubble sort</li>
+    <li>Merge sort</li>
+    <li>Heap sort</li>
+    <li>Quick sort</li>
+  </ul>
+  </li>
+  <li>Linked list</li>
+  <li>Stack</li>
+  <li>Queue</li>
+  <li>Tree(Basics)</li>
+</ol>
